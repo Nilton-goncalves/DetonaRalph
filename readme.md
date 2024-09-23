@@ -13,8 +13,8 @@ Este projeto não apenas oferece entretenimento, mas também demonstra várias t
 
 ## Como Jogar
 
-- Clone este repositório para sua máquina local.
-- Abra o arquivo index.html em seu navegador web.
+Acesse o link:
+https://nilton-goncalves.github.io/DetonaRalph/
 
 
 ## Contribuições:
